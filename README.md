@@ -15,6 +15,6 @@ This repository goes beyond simple data science modeling by serving the trained 
 ### 1. Installation
 Clone this repository and install dependencies:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/ecommerce-return-risk-prediction.git](https://github.com/YOUR_USERNAME/ecommerce-return-risk-prediction.git)
+git clone [https://github.com/parthtomar2706-ctrl/ecommerce-return-risk-prediction.git](https://github.com/parthtomar2706-ctrl/ecommerce-return-risk-prediction.git)
 cd ecommerce-return-risk-prediction
 pip install -r requirements.txt
